@@ -1,0 +1,29 @@
+.item_container
+{
+    box-shadow: 0px 0px 10px grey;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    /* color:rgb(29, 182, 29) */
+    /* height: max-content; */
+}
+.item_container
+{
+    height: max-content;
+}
+.item_image
+{
+    /* border: 2px solid black; */
+    /* width: 50%; */
+    margin-left: 20px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+.item_details
+{
+    margin-left: 50px;
+    margin-top: 50px;
+}
